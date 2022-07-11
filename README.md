@@ -1,6 +1,9 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Azzar</h1>
-<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university</h4>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Abhinav</h1>
+<h4 align="center">Student of Computer Science, currently pursuing Bachelor of Technology (2nd Year). Demonstrated skills in Data, Hypergraphs, Data Visualization and Full Stack Development. Interested in Data Structures, Graphs, Books, Chess and more. Doing 2 internships (MLOPs & Data Science) and working on 2 research papers this summer!
+Comfortable in C++ and Python; Web Development in Django and React; Game Development with Pygame.
+
+Outside of work, you'll find me praising films -- especially those of Scorsese and Hirokazu Koreeda.state university</h4>
 </div>
 
 <div align="center">
