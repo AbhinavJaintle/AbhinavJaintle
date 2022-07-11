@@ -42,13 +42,14 @@ Outside of work, you'll find me praising films -- especially those of Scorsese a
 <details>
   <summary>🧮 about</summary>
 <div>
-  <h2 align="center">🧮 About this Account</h2>
+<h2 align="center">🧮 About this Account</h2>
+ 
   <p align="center">
   <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/updated/AbhinavJaintle/AbhinavJaintle"
+     src="https://badges.pufler.dev/updated/AbhinavJaintle/AbhinavJaintle?style=for-the-badge&color=ff00b4&logo=github&label=Profile+Updated"
      alt="updated" /></a>
   <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/repos/AbhinavJaintle"
+     src="https://badges.pufler.dev/repos/AbhinavJaintle/?style=for-the-badge&color=251ee7&logo=github&label=Public+Repos"
      alt="repos" /></a>
  </p>
 </div>
