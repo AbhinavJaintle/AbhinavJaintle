@@ -7,7 +7,7 @@ Outside of work, you'll find me praising films -- especially those of Scorsese a
 </div>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <a href="[https://1999azzar.github.io/1999AZZAR/](https://github.com/AbhinavJaintle)">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
@@ -40,7 +40,7 @@ Outside of work, you'll find me praising films -- especially those of Scorsese a
 </details>
 
 <details>
-  <summary>🌏 global</summary>
+  <summary>🌏 Wanna learn more something about me?</summary>
 <div>
 <h2 align="center"> Wanna learn more something about me? </h2>
 </div>
