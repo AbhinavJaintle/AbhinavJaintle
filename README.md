@@ -122,8 +122,8 @@ Outside of work, you'll find me praising films -- especially those of Scorsese a
         </p>
         <p align="center">
           <a href="https://github.com/AbhinavJaintle/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AbhinavJaintle&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavJaintle&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
